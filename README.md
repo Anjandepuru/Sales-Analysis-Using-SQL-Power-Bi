@@ -18,6 +18,7 @@ The business requested an executive sales report to provide an overview of inter
 - **Sales Budgets** Excel File
 ## Dashboard Features
 The Power BI dashboards offer interactive and dynamic visualizations.
+https://app.powerbi.com/reportEmbed?reportId=ce9aecf0-3639-4a2d-9c8c-c53a69f2a1f6&autoAuth=true&ctid=0c9bf8f6-ccad-4b87-818d-49026938aa97
 ## Conclusion
 This project successfully delivers a robust solution for monitoring and analyzing internet sales...
 
